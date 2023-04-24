@@ -2,7 +2,7 @@
 const gree = name => 'hello '+ name;
 function jiji (){
 
-    console.log("XDDDD")
+    console.log("Xjhijiji")
 }
 function xd (opc){
 
