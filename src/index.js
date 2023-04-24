@@ -1,4 +1,4 @@
-import { Diccionario1 } from "./Diccionario.js"
+import { Diccionario1 } from "/Diccionario.js"
 const gree = name => 'hello '+ name;
 function jiji (){
 
