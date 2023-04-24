@@ -2,7 +2,7 @@ import { Diccionario1 } from "./Diccionario.js"
 const gree = name => 'hello '+ name;
 function jiji (){
 
-    console.log("XDDD")
+    console.log("XDDDD")
 }
 function xd (opc){
 
